@@ -4,9 +4,8 @@
 int main()
 {
     char first,second;
-    printf("input first letter.\n");
+    printf("input first and second letter.\n");
     scanf("%c",&first);
-    printf("input second letter.\n");
     scanf("%c",&second);
 
     switch(first){
